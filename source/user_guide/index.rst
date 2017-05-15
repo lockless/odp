@@ -16,5 +16,5 @@ OpenDataPlane (ODP) 用户指南
     odp_app_program
     common_conventions
     app_port_consider
-
+    shared_mem
 	
