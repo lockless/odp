@@ -17,4 +17,5 @@ OpenDataPlane (ODP) 用户指南
     common_conventions
     app_port_consider
     shared_mem
+    queue
 	
